@@ -1,0 +1,26 @@
+{
+  "name": "thinkjs-auto",
+  "version": "0.0.3",
+  "description": "automatically generate thinkjs code blocks",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tauto": "./bin/tauto.js"
+  },
+  "keywords": [
+    "automatically",
+    "think-mongoose",
+    "thinkjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yh4922/thinkjs-auto.git"
+  },
+  "author": "Yohann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yh4922/thinkjs-auto/issues"
+  },
+  "homepage": "https://github.com/yh4922/thinkjs-auto#readme"
+}
